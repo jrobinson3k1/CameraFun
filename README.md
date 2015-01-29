@@ -10,5 +10,6 @@ Very simple camera implementation that should be a good starting point when impl
 * Resulting picture orientation matches camera orientation
 * Capture button realigns based on orientation of the device
 * Full-screen mode
+* Handles camera releasing and reinitialization
 * Displays messages for common errors
 * Minimum API 15 (4.0.3)
