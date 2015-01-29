@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera Fun</string>
+    <string name="camera_unavailable">Camera is currently unavailable.</string>
+    <string name="capture">Capture</string>
+    <string name="saving_error">Error saving picture.</string>
+    <string name="picture_saved">Picture saved to %1$s</string>
+
+</resources>
